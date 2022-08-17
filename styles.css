@@ -34,7 +34,7 @@ body {
 
 main {
     background-color: var(--clr-white);
-    width: 320px;
+    max-width: 320px;
     align-items: center;
     border-radius: 10px;
     text-align: center;
