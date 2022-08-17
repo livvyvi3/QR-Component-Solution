@@ -34,12 +34,11 @@ body {
 
 main {
     background-color: var(--clr-white);
-    width: 50%;
+    width: 320px;
     align-items: center;
     border-radius: 10px;
     text-align: center;
     padding: 15px;
-    height: 50%;
 }
 
 .qr-info p {
